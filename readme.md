@@ -2,7 +2,7 @@
 
 This is some examples using Java 8 lambda functions.
 
-[![paypal](https://raw.githubusercontent.com/Menda0/code-quizzer/master/buymecoffee.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MN9GJRESLJEXQ)
+[![paypal](https://raw.githubusercontent.com/Menda0/java-lambda-examples/master/buymecoffee.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MN9GJRESLJEXQ)
 
 
 ### Objectives
